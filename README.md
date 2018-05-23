@@ -12,18 +12,10 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 The gameplay rules are very simple: 
 1. You can move your player by using arrow keys on your keyboard.
-2. Try to avoid all the enemies 
-
-and reach to the water to win the game.
+2. Try to avoid all the enemies and reach to the water to win the game.
 
 
-
-* Open this link in your browser to play [Memory Game](https://ghaliahmut.github.io/Memory-Game-Project/).
-
-
-
-
-
+* Open this link in your browser to play [Classic Arcade Game Clone](https://ghaliahmut.github.io/Classic-Arcade-Game/).
 
 
 ## Resources
